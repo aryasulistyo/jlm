@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My JLM</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+    <string name="about">Aplikasi ini dibuat untuk memudahkan pengguna layanan internet khususnya JLM untuk melakukan kegiatan interaktif yang berkaitan dengan koneksi internet.
+    Pengguna dapat melakukan pengecekan kestabilan koneksi dengan fitur Ping. Pengguna juga dapat melakukan troubleshooting masalah-masalah umum yang seringkali terjadi. Apabila jenis masalah yang dialami tidak tersedia, aplikasi ini juga menyediakan fitur Contact Us yang memungkinkan pengguna untuk menghubungi support JLM via telepon ataupun e-mail yang siap membantu kapan saja. </string>
+    <string name="profile">PT. Jala Lintas Media (JLM) adalah ISP (Internet Service Provider) yang didirikan pada Tahun 2009, dan telah mendapatkan ijin dari Dirjen Postel sebagai penyedia layanan internet untuk daerah Jakarta, Bogor, Serang, Bekasi, Bandung, Surabaya, Cirebon, Bali, Medan dengan Nomor 185/KEP/DJPPI/KOMINFO/7/2011. JLM juga telah terdaftar secara resmi sebagai salah satu anggota resmi APJII (Asosiasi Penyelenggara Jasa Internet Indonesia)
+
+Semangat yang melandasi didirikannya JLM adalah untuk menghadapi perkembangan dunia IT yang tidak dapat di tawar lagi. Dan kerinduan kami akan layanan stabil, reliable dengan harga terjangkau. Di JLM kami menjadikan pelanggan sebagai prioritas utama, yang dapat langsung mendapat layanan tanpa melalui sistem dan birokrasi berbelit.</string>
+	<string name="blitz_summary">PT Jala Lintas Media memberikan solusi bisnis dengan layanan BLITZ.Layanan ini ditujukan bagi pelanggan yang membutuhkan akses internet 24 jam dengan pengaturan yang sangat fleksibel.
+
+Adapun fitur-fitur yang dimiliki layanan ini adalah akses internet internasional dan akses internet domestic peering IIX dan OIXP sesuai bandwidth berlangganan. Dengan kondisi itu, pelanggan akan mendapatkan internet internasional dan domestic peering IIX dan OIXP secara terpisah dengan perbandingan ratio 1:1. Pelanggan juga mendapatkan akses Facebook, Yahoo, Google serta content internasional lainnya melalui jaringan domestic peering.
+
+Dengan begitu penggunaan akses internet domestik akan secara otomatis mengurangi bandwidth untuk akses internet internasional. Akan tetapi akses internet domestik tersebut kemudian dapat diatur kembali pembagiannya sesuai dengan kebutuhan pelanggan. Layanan ini bisa menggunakan media Fiber Optic dan Radio Wireless.</string>
+    <string name="blitz_benefit">
+
+    Routing Protocol: Dynamic (BGP versi 4) full route, dan pelanggan diberikan Full Internet Routing Table dimana bisa mendaftarkan IP Address yang telah dimiliki di bawah AS (Autonomous System) number JLM atau pun mengikuti IP dan AS number JLM bagi pelanggan yang tidak memiliki IP Address dan AS number sendiri.
+    1 Public IP Address.
+    Free 1 Gb Web Hosting.
+    Multi Router Traffic Grapher (MRTG), Pelanggan bisa monitoring pemakaian bandwidth.
+    Services Level Agreement (SLA) 99,5 %.
+
+        
+    </string>
+    <string name="blitz_req">
+
+    Jaringan LAN (Local Area Network).
+    Gateway berupa Router atau Proxy/Firewall (dipinjamkan).
+    Interface disesuaikan dengan media link local, baik Ethernet atau Optical.
+
+        
+    </string>
+    <string name="mixture_summary">PT. Jala Lintas Media (JLM) memberikan solusi bisnis dengan layanan MIXTURE. Layanan ini ditujukan bagi pelanggan yang membutuhkan akses internet 24 jam dengan pengaturan yang sangat fleksibel.
+Adapun fitur-fitur yang dimiliki layanan ini adalah akses internet internasional dan akses internet domestic peering IIX dan OIXP akan melalui besaran jalur yang dibutuhkan.mixture Dengan Kondisi itu, pelanggan akan mendapatkan internet international dan domestic peering IIX dan OIXP secara kebutuhan pemakaian sehari-hari dengan batasan international dan domestic sesuai jalur yang ada dengan dedicated internet.
+
+Pelanggan juga mendapatkan akses Facebook, Yahoo, Google serta content international lainnya melalui jaringan domestic peering dengan itu penggunaan akses internet domestik akan secara otomatis mengurangi bandwidth untuk akses internet internasional, akan tetapi akses internet domestik tersebut kemudian dapat diatur lagi pembagiannya sesuai dengan kebutuhan pelanggan. Layanan ini bisa menggunakan media Fiber Optic dan Radio Wireless.</string>
+    
+    <string name="mixture_benefit">Routing Protocol: Dynamic (BGP versi 4) full route, dan pelanggan diberikan Full Internet Routing Table dimana bisa mendaftarkan IP Address yang telah dimiliki di bawah AS (Autonomous System) number JLM atau pun mengikuti IP dan AS number JLM bagi pelanggan yang tidak memiliki IP Address dan AS number sendiri.
+1 Public IP Address.
+Free 1 Gb Web Hosting.
+Multi Router Traffic Grapher (MRTG), Pelanggan bisa monitoring pemakaian bandwidth.
+Services Level Agreement (SLA) 99,5 %.</string>
+
+    <string name="mixture_req">Jaringan LAN (local area network).
+Gateway berupa Router atau Proxy/Firewall ( dipinjamkan ).
+Interface disesuaikan dengan media link local baik Ethernet atau Optical.</string>
+
+     <string name="vpn_summary">Jala Lintas Media (JLM) memberikan IP VPN yang merupakan layanan innercity dan intercity yang menghubungkan pelanggan dari suatu tempat ke tempat lainnya dengan menggunakan backbone inland jawa dan sumatera. layanan Corporate IP VPN merupakan layanan pendukung dan pelengkap terhadap kebutuhan komunikasi data dan internet.</string>
+	<string name="vpn_benefit">
+
+    SLA (service level availability) 99,5%
+    Menggunakan teknologi metro dengan kecepatan transfer data n x 1 Mbps dan menggunakan interfaces ethernet / GBIC pada masing – masing lokasi pelanggan.
+    Koneksi pop to pop
+    Interkoneksi dari pop JLM
+
+	    
+	</string>
+	<string name="vpn_req">none</string>
+    
+    <string name="netband_summary">Jala Lintas Media (JLM) memberikan solusi bisnis dengan layanan NETBAND. Layanan ini ditujukan bagi pelanggan korporat yang membutuhkan akses internet 24 jam dengan pengaturan yang sangat fleksibel.Adapun fitur-fitur yang dimiliki layanan ini adalah akses internet internasional dan akses internet domestic peering IIX/OPEN IXP secara sharing atau broandband.mixture
+
+Dengan Kondisi itu, pelanggan akan mendapatkan internet international dan domestic peering IIX/OPEN IXP secara sharing dengan kuota yang telah ditentukan. Pelanggan juga mendapatkan akses Facebook, Yahoo, Google serta content international lainnya melalui jaringan domestic peering dengan itu penggunaan akses internet domestik akan secara otomatis mengurangi bandwidth untuk akses internet internasional. Layanan ini bisa menggunakan media Fiber Optic dan Radio Wireless.</string>
+	<string name="netband_benefit">
+    1 Public IP Address.
+    Free 1 Gb Web Hosting.
+    Multi Router Traffic Grapher (MRTG), Pelanggan bisa monitoring pemakaian bandwidth.
+    Services Level Agreement (SLA) 99,5 %.
+	    
+	</string>
+	<string name="netband_req">
+    Jaringan LAN (local area network).
+    Gateway berupa Router atau Proxy/Firewall ( dipinjamkan ).
+    Interface disesuaikan dengan media link local baik Ethernet atau Optical
+	    
+	</string>
+	
+	<string name="netsat_summary">PT. Jala Lintas Media memberikan solusi bisnis pada layanan NETSAT, yang mana menggunakan media Vsat untuk menjangkau sampai ke daerah-daerah pelosok Indonesia. PT. Jala Lintas Media (JLM) melayankan dengan jenis Vsat Ku-Band dan C-Band.</string>
+	<string name="netsat_spsc">Layanan jasa telekomunikasi berteknologi SCPC (Single Channel per Carrier), bertopologi Point-to-point dan dapat menjadi Point-to-Multipoint dengan kecepatan Kbps sampai 40 Mbps. Juga sebagai layanan private dedicated bandwidth untuk data, suara atau aplikasi video dan dapat menggunakan perangkat milik sendiri. VSAT – SCPC menawarkan dedicated bandwidth untuk pelanggan yang membutuhkan komunikasi kontinyu dengan bit yang besar ke area di luar jangkauan jaringan. Jasa ini menyediakan layanan komunikasi data, video, dan gambar.</string>
+	<string name="netsat_ip">Layanan data komunikasi menggunakan sarana sambungan satelit dengan Time Division Multiplex (TDM), Time Division Multiple Access (TDMA) atau Frequency Division Multiple Access (FDMA) berbasis pada standar Internet Protocol (IP). VSAT – IP cocok untuk online antar cabang, pemesanan hotel/tiket, ATM, lalu lintas data ringan, payment point, pengontrolan inventori/logistik, email, pengaturan transfer file, dll.</string>
+	
+	<string name="ukm_summary">Jala Lintas Media (JLM) memberikan solusi bisnis pada layanan UKM, yang mana menggunakan media Wireless. Layanan UKM adalah produk Internet dengan bundling international dan lokal akses yang ditujukan untuk Usaha Kecil Menengah. Dengan akses international dan local akses yang cepat, murah dan hemat bandwidth serta dengan sharing acceses concept up to 1, 2 s/d 10 Mbps membuat anda lebih nyaman berinternet.</string>
+	<string name="ukm_benefit">
+    IP yang didapat pelanggan IP Dynamic
+    Perangkat Radio dan Router di Pinjamkan
+    Multi Router Traffic Grapher (MRTG), customer bisa monitoring pemakaian bandwidth
+    Services Level Agreement (SLA) 99,5 % 
+	    
+	</string>
+	<string name="ukm_req">none</string>
+    
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item >Home</item>
+        <item >Ping Tools</item>
+        <item >Find Us</item>
+        <item >Contact Us</item>
+        <item >Troubleshoot</item>
+        <item >About</item>
+    </string-array>
+    
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/hp_folder_home</item>
+        <item>@drawable/hp_folder_customize</item>
+        <item>@drawable/hp_world</item>
+        <item>@drawable/hp_folder_mail</item>
+        <item>@drawable/hp_folder_caution</item>
+        <item>@drawable/hp_about</item>
+    </array>
+    
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+
+</resources>

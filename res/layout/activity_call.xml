@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bgwhite"
+     >
+
+        <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView2"
+        android:layout_alignTop="@+id/buttonCall"
+        android:text="Support (Office)"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#000000" />
+        
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/buttonCall"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="49dp"
+        android:text="+6221 879 061 75"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView2"
+        android:layout_centerVertical="true"
+        android:text="Send Us an Email"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textColor="#000000" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView3"
+        android:layout_below="@+id/textView3"
+        android:text="support@jlm.net.id"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#000000" />
+
+    <ImageButton
+        android:id="@+id/buttonMail"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignLeft="@+id/buttonCall"
+        android:layout_alignTop="@+id/textView3"
+        
+        android:src="@android:drawable/ic_dialog_email" />
+
+    <ImageButton
+        android:id="@+id/buttonCall"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_above="@+id/buttonMail"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="64dp"
+        android:layout_marginRight="31dp"
+        
+        android:src="@android:drawable/ic_menu_call" />
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/buttonMail"
+        android:layout_marginBottom="34dp"
+        android:src="@drawable/hp_girl" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imageView1"
+        android:layout_toRightOf="@+id/textView4"
+        android:src="@drawable/hp_boy" />
+ 
+</RelativeLayout>
